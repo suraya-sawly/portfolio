@@ -1,0 +1,40 @@
+body{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-size: large;
+    margin: 0;
+}
+.bg{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+h3{
+    color: rgb(58, 55, 55)
+}
+.sura{
+    color: rgba(128, 0, 0, 0.788);
+}
+.ph{
+    color: purple;
+}
+.wd{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding-left: 10%;
+}
+.width img{
+    width: 70%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato) ;
+    padding: 10px, 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    font-size: small;
+}
