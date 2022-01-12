@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 .bg{
-    background-image: url(top-banner.png);
+    background-image: url(pic/top-banner.png);
     background-repeat: no-repeat;
 }
 h3{
