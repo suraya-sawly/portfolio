@@ -32,9 +32,24 @@ section{
 .button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato) ;
-    padding: 10px, 40px;
-    color: white;
-    font-weight: 700;
+    padding: 10px, 0px;
+    color: rgb(252, 250, 250);
+    font-weight: 400;
     border-radius: 5px;
     font-size: small;
+}
+
+
+
+
+.img2 {
+    width: 70%;
+    padding-top: 10%;
+    padding-left: 10%;
+}
+.dreamBig{
+    padding: 10%;
+    background-image: url(pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
