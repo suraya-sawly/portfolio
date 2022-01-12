@@ -19,7 +19,7 @@ h3{
 .wd{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .width{
@@ -52,4 +52,8 @@ section{
     background-image: url(pic/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.photography{
+
 }
